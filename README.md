@@ -24,12 +24,6 @@
 
 ---
 
-## 📸 Preview
-
-![Pokédex Screenshot](./preview.png)
-
----
-
 ## 🚀 Instalación y uso
 
 ```bash
